@@ -1,0 +1,14 @@
+Package: com.linhcutee.vn
+Name: Linhcuteeee menu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Linhcuteeee
+Maintainer: Linhcuteeee
+Author: Linhcuteeee
+Section: Tweaks (Hacks)
+Version: 1.0-6+debug
+Filename: ./debs/com.linhcutee.vn_1.0-6debug_iphoneos-arm.deb
+Size: 1445520
+MD5sum: 84b8be61fdb73e0f2d6220bf5725c8f5
+SHA1: f87da9cc8fbcbbeddedc8eac8cd56d15d77c4247
+SHA256: 507c2622be5f96d6f8d4db564b5b77e25f0084baa5016aafad0ec707877b7ae8

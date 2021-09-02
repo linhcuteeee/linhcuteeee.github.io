@@ -1,14 +1,14 @@
-Package: com.linhcutee.vn
-Name: Menu Pubgmobile Global 1.5 Free
+Package: io.linhcuteeee.vn
+Name: Linhcuteeee menu
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Linhcuteeee
+Description: mod menu by Linhcuteeee
 Maintainer: Linhcuteeee
 Author: Linhcuteeee
 Section: Tweaks (Hacks)
-Version: 1.0-6+debug
-Filename: ./debs/linhcuteeee-9-2-2021.deb
-Size: 1445520
-MD5sum: 84b8be61fdb73e0f2d6220bf5725c8f5
-SHA1: f87da9cc8fbcbbeddedc8eac8cd56d15d77c4247
-SHA256: 507c2622be5f96d6f8d4db564b5b77e25f0084baa5016aafad0ec707877b7ae8
+Version: 1.7
+Filename: ./debs/io.linhcuteeee.vn_1.7_iphoneos-arm.deb
+Size: 1471520
+MD5sum: 961bbdc83e7de38494820af661ad51ed
+SHA1: 6d8620be4e5ff2f10b4b0b24334712b1dccf8053
+SHA256: 607cf830ce9897067bd66702c19ef0422f753e4aeefe773395800d1c22d25887

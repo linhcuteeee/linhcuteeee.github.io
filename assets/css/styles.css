@@ -14,6 +14,8 @@
   --behoax-color: #f39720;
   --behoaxx-color: #20f3f3;
   --behoaxxx-color: #00ff00;
+  --behoabuton-color: #ff4000;
+  --behoabutonx-color: #00ff40;
 }
 
 :root{
@@ -238,7 +240,7 @@ img{
   display: inline-block;
   background-color: var(--first-color);
   color: #fff;
-  padding: .75rem 2.5rem;
+  padding: .75rem 1rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
 }
@@ -250,7 +252,7 @@ img{
   display: inline-block;
   background-color: var(--behoaxxx-color);
   color: #fff;
-  padding: .50rem 1rem;
+  padding: .75rem 1rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
 }
@@ -258,6 +260,31 @@ img{
   box-shadow: 0 10px 36px rgba(0,0,0,.15);
 }
 
+
+.buttonfb{
+  display: inline-block;
+  background-color: var(--behoabuton-color);
+  color: #fff;
+  padding: .75rem 1rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+}
+.buttonfb:hover{
+  box-shadow: 0 10px 36px rgba(0,0,0,.15);
+}
+
+
+.buttontl{
+  display: inline-block;
+  background-color: var(--behoabutonx-color);
+  color: #fff;
+  padding: .75rem 1rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+}
+.buttontl:hover{
+  box-shadow: 0 10px 36px rgba(0,0,0,.15);
+}
 
 .about__container{
   row-gap: 2rem;

@@ -45,6 +45,11 @@ sr.reveal('.about__subtitle',{delay: 400});
 sr.reveal('.about__text',{delay: 400}); 
 
 
+sr.reveal('.taive__img',{}); 
+sr.reveal('.taive__subtitle',{delay: 400}); 
+sr.reveal('.taive__text',{delay: 400}); 
+
+
 sr.reveal('.skills__subtitle',{}); 
 sr.reveal('.skills__text',{}); 
 sr.reveal('.skills__data',{interval: 200}); 

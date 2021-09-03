@@ -246,6 +246,18 @@ img{
   box-shadow: 0 10px 36px rgba(0,0,0,.15);
 }
 
+.buttonx{
+  display: inline-block;
+  background-color: var(--behoaxxx-color);
+  color: #fff;
+  padding: .50rem 1rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+}
+.buttonx:hover{
+  box-shadow: 0 10px 36px rgba(0,0,0,.15);
+}
+
 
 .about__container{
   row-gap: 2rem;
@@ -262,6 +274,21 @@ img{
   border-radius: .5rem;
 }
 
+
+.taive__container{
+  row-gap: 2rem;
+  text-align: center;
+}
+.taive__subtitle{
+  margin-bottom: var(--mb-2);
+}
+.taive__img{
+  justify-self: center;
+}
+.taive__img img{
+  width: 200px;
+  border-radius: .5rem;
+}
 
 .skills__container{
   row-gap: 2rem;
@@ -427,6 +454,15 @@ img{
   }
   .contact__container{
     justify-items: center;
+  }
+  
+    .taive__container, .skills__container{
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    text-align: initial;
+  }
+  .taive__img img{
+    width: 300px;
   }
 }
 

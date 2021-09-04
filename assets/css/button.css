@@ -1,0 +1,35 @@
+.buttonhoajb{
+  display: inline-block;
+  background-color: var(--behoabutonhoa-color);
+  color: #fff;
+  padding: .75rem 1rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+}
+.buttonhoajb:hover{
+  box-shadow: 0 10px 36px rgba(0,0,0,.15);
+}
+
+.buttonhoaadr{
+  display: inline-block;
+  background-color: var(--behoabutonhoax-color);
+  color: #fff;
+  padding: .75rem 1rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+}
+.buttonhoaadr:hover{
+  box-shadow: 0 10px 36px rgba(0,0,0,.15);
+}
+
+.buttonhoabp{
+  display: inline-block;
+  background-color: var(--behoabutonhoabypass-color);
+  color: #fff;
+  padding: .75rem 1rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+}
+.buttonhoabp:hover{
+  box-shadow: 0 10px 36px rgba(0,0,0,.15);
+}

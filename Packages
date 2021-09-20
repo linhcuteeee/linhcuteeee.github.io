@@ -1,14 +1,15 @@
-Package: io.linhcuteeee.vn
+Package: com.kailteam.linhcuteee
 Name: Linhcuteeee menu
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: mod menu by Linhcuteeee
-Maintainer: Linhcuteeee
-Author: Linhcuteeee
-Section: Tweaks (Hacks)
-Version: 1.7
-Filename: ./debs/io.linhcuteeee.vn_1.7_iphoneos-arm.deb
-Size: 1471520
-MD5sum: 961bbdc83e7de38494820af661ad51ed
-SHA1: 6d8620be4e5ff2f10b4b0b24334712b1dccf8053
-SHA256: 607cf830ce9897067bd66702c19ef0422f753e4aeefe773395800d1c22d25887
+Description: mod menu by linhcuteeee
+Maintainer: linhcuteeee
+Author: linhcuteeee
+Section: Tweaks
+Version: 1.0-6+debug
+Homepage: gg.com
+Filename: ./debs/com.kailteam.linhcuteee_1.0-6debug_iphoneos-arm.deb
+Size: 201094
+MD5sum: f65d6bbb1fd0fee1c831d23751594393
+SHA1: 3bfe8fd6a8e05e306f892226cc9ed4083ac468da
+SHA256: b3bde0cce5d908f0aec933dbbf93bec8a3d1cccf645cea0272ed9187943398e1

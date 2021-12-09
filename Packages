@@ -9,6 +9,7 @@ Section: Tweaks
 Version: 1.7
 Filename: ./debs/kailteam.tk_1.7_iphoneos-arm.deb
 Installed-Size: 848
+Size: 380678
 MD5sum: 9aaca01e32f9597a41a8d1bdf348e294
 SHA1: 53bf42dd7d0f13c5a73b466f2347a886aa1799e3
 SHA256: 509327fe5c64156b819932b4d1a6cda03815f97018bc783bf172c8089486bcc1

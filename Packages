@@ -1,15 +1,14 @@
-Package: com.kailteam.linhcuteee
-Name: Linhcuteeee menu
+Package: behoane.kailteam.tk
+Name: Menu PubgMobile Global Free
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: mod menu by linhcuteeee
-Maintainer: linhcuteeee
-Author: linhcuteeee
+Description: Menu for PubgM
+Maintainer: Linhcute
+Author: Linhcute
 Section: Tweaks
-Version: 1.0-6+debug
-Homepage: gg.com
-Filename: ./debs/com.kailteam.linhcuteee_1.0-6debug_iphoneos-arm.deb
-Size: 201094
-MD5sum: f65d6bbb1fd0fee1c831d23751594393
-SHA1: 3bfe8fd6a8e05e306f892226cc9ed4083ac468da
-SHA256: b3bde0cce5d908f0aec933dbbf93bec8a3d1cccf645cea0272ed9187943398e1
+Version: 1.7
+Filename: ./debs/kailteam.tk_1.7_iphoneos-arm.deb
+Installed-Size: 848
+MD5sum: 9aaca01e32f9597a41a8d1bdf348e294
+SHA1: 53bf42dd7d0f13c5a73b466f2347a886aa1799e3
+SHA256: 509327fe5c64156b819932b4d1a6cda03815f97018bc783bf172c8089486bcc1
